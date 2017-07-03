@@ -1,7 +1,7 @@
 # The artists advantage: Better integration of object information across eye movements
 
-Author: Florian Perdreau (fp@florianperdreau.fr)
 Year: 2012
+
 Version: 1.0.0
 
 ## DESCRIPTION
