@@ -1,7 +1,21 @@
 # The artists advantage: Better integration of object information across eye movements
+
 Author: Florian Perdreau (fp@florianperdreau.fr)
 Year: 2012
 Version: 1.0.0
+
+## DESCRIPTION
+This repository provides the experiment and data analysis code of the paper Perdreau & Cavanagh (2013a).
+
+This study investigated whether drawing expertise would be related to a more 
+stable memory representation of an object structure progressively built up 
+from either foveal or peripheral visual information sampled across 
+eye-movements.
+
+## REFERENCE
+Perdreau, F., & Cavanagh, P. (2013). The artist’s advantage: Better 
+integration of object information across eye movements. I-Perception, 
+4(6), 380–395. http://doi.org/10.1068/i0574
 
 ## LICENSE:
 Copyright (C) 2012 Florian Perdreau, University Paris Descartes
@@ -18,17 +32,6 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-## CITATION
-Perdreau, F., & Cavanagh, P. (2013). The artist’s advantage: Better 
-integration of object information across eye movements. I-Perception, 
-4(6), 380–395. http://doi.org/10.1068/i0574
-
-## DESCRIPTION
-This study investigates whether drawing expertise is related to a more 
-stable memory representation of an object structure progressively built up 
-from either foveal or peripheral visual information  sampled across 
-eye-movements.
 
 ## METHOD
 ### APPARATUS
